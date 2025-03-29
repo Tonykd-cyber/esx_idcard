@@ -82,17 +82,17 @@ function idcarmenu()
     {
      icon = 'fa-solid fa-address-card',
      title="ID card",
-     description="Get ID card."
+     description="Get ID card /2000$"
     },
     {
       icon = 'fa-solid fa-address-card',
       title="driver license",
-      description="Get driver license."
+      description="Get driver license /5000$"
     },
     {
       icon = 'fa-solid fa-address-card',
       title="weapon license",
-      description="Get weapon license."
+      description="Get weapon license /5000$"
     },
   }
   ESX.OpenContext("right" , Elements,
